@@ -5,6 +5,8 @@ almacenamiento en la nube).
 
 $ docker build -t jdvelasq/mlflow:example .
 
+$ docker build -t dan-reds/mlflow:example .
+$ docker build -t danreds09/mlflow:example .
 
 
 Cree un disco o folder externo para ejecutar el experimento.
